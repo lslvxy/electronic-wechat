@@ -45,7 +45,7 @@ npm run build:linux
 brew cask install electronic-wechat
 ```
 
-#### [Download Released App](https://github.com/geeeeeeeeek/electronic-wechat/releases)
+#### [Download Released App](https://github.com/lslvxy/electronic-wechat/releases)
 
 #### License [MIT](LICENSE.md)
 
